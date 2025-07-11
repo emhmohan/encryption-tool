@@ -1,5 +1,17 @@
 # AES-256 Encryption Tool
 
+*COMPANY NAME*: CODTECH IT SOLUTIONS 
+
+*NAME": MOHAN HARISH E
+
+*INTERN ID*: CT04DH2589
+
+*DOMAIN*:CYBER SECURITY AND ETHICAL HACKING 
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH KUMAR 
+
 A simple GUI tool to encrypt and decrypt files using AES-256 encryption (CBC mode) with a password-based key.
 
 ## Features
